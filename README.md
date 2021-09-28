@@ -1,2 +1,2 @@
 # OpenDT
- A open source platform for modeling and simulation of Digital Twin
+A solution to power Digital Twins based on open source frameworks 
